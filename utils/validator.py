@@ -41,3 +41,4 @@ def extract_tables(parsed):
 # EXTRACT COLUMNS
 def extract_columns(parsed):
     return [c.name for c in parsed.find_all(exp.Column)]
+
