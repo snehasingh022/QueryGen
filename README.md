@@ -153,8 +153,8 @@ EXECUTE
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/SUJALGOYALL/neuroquery.git
-cd neuroquery  
+git clone https://github.com/snehasingh022/QueryGen.git
+cd QueryGen 
 
 ### 2. Create virtual environment
 python -m venv venv  
@@ -197,9 +197,7 @@ To build a fully autonomous AI Data Analyst system that:
 
 ## 💡 Author
 
-Sujal Goyal  
-MNC (Mathematics & Computing)  
-AI/ML + Data Systems Enthusiast  
+Sneha Singh  
 
 ---
 
